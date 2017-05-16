@@ -1,0 +1,1 @@
+wekaexamples.gui.visualize.AttributePanelExample

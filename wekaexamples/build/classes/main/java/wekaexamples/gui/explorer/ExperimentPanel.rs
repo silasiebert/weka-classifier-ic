@@ -1,0 +1,15 @@
+wekaexamples.gui.explorer.ExperimentPanel$9
+wekaexamples.gui.explorer.ExperimentPanel$8
+wekaexamples.gui.explorer.ExperimentPanel$10
+wekaexamples.gui.explorer.ExperimentPanel$5
+wekaexamples.gui.explorer.ExperimentPanel
+wekaexamples.gui.explorer.ExperimentPanel$4
+wekaexamples.gui.explorer.ExperimentPanel$7
+wekaexamples.gui.explorer.ExperimentPanel$6
+wekaexamples.gui.explorer.ExperimentPanel$1
+wekaexamples.gui.explorer.ExperimentPanel$14
+wekaexamples.gui.explorer.ExperimentPanel$13
+wekaexamples.gui.explorer.ExperimentPanel$3
+wekaexamples.gui.explorer.ExperimentPanel$12
+wekaexamples.gui.explorer.ExperimentPanel$2
+wekaexamples.gui.explorer.ExperimentPanel$11

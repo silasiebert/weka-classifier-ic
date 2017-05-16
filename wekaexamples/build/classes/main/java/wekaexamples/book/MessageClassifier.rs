@@ -1,0 +1,1 @@
+wekaexamples.book.MessageClassifier
